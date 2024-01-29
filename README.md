@@ -2,7 +2,9 @@
 
 #### Long live open-source!
 
-[![Marius's GitHub stats](https://github-readme-stats.vercel.app/api?username=marius-cornescu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marius-cornescu&langs_count=8&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Marius's GitHub stats](https://github-readme-stats.vercel.app/api?username=marius-cornescu&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **marius-cornescu/marius-cornescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
